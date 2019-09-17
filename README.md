@@ -3,7 +3,7 @@ Repositório de piadas ruins em português para ofender os ouvidos dos desafetos
 
 ## Link para os arquivos de piadas
 * [Adivinhas](Adivinhas.md)
-* [Grandes dilemas da humanidade](dilemas.md)
+* [Grandes dilemas da humanidade](Dilemas.md)
 * [Veganas](Veganas.md)
 
 pendente: 

@@ -5,6 +5,7 @@ Repositório de piadas ruins em português para ofender os ouvidos dos desafetos
 * [Adivinhas](Adivinhas.md)
 * [Grandes dilemas da humanidade](Dilemas.md)
 * [Veganas](Veganas.md)
+* [Termos em inglês](TermosIngles.md)
 
 pendente: 
 

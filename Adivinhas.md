@@ -29,4 +29,13 @@ R. Vem quá!
 .
 
 .
+P. Um motorista de aplicativo foi expulso, qual o nome do filme?
+
+.
+
+.
+
+.
+
+R: A culpa é das estrelas!
 ```

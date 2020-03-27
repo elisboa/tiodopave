@@ -74,6 +74,20 @@ P. O que é, o que é? Dá muitas voltas e não sai do lugar?
 .
 .
 R: O relógio.
+.
+.
+.
+.
+.
+.
+P. O que é, o que é? Nasce a socos e morre a facadas?
+.
+.
+.
+.
+.
+.
+R: O Pão.
 
 
 ```

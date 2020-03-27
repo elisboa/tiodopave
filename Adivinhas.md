@@ -38,4 +38,12 @@ P. Um motorista de aplicativo foi expulso, qual o nome do filme?
 .
 
 R: A culpa é das estrelas!
+P. Por que o micróbio prefere surfar na cozinha?
+.
+.
+.
+.
+.
+.
+R: Porque lá tem microondas
 ```

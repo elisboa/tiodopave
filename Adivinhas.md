@@ -61,6 +61,19 @@ P. Qual é o Rei dos Queijos?
 .
 .
 R: O Reiqueijão
+.
+.
+.
+.
+.
+P. O que é, o que é? Dá muitas voltas e não sai do lugar?
+.
+.
+.
+.
+.
+.
+R: O relógio.
 
 
 ```

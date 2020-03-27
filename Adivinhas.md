@@ -1,3 +1,4 @@
+
 # O que é, o que é?
 ```
 P. Por que o Bin Laden gosta dos filhos dele?
@@ -46,4 +47,20 @@ P. Por que o micróbio prefere surfar na cozinha?
 .
 .
 R: Porque lá tem microondas
+.
+.
+.
+.
+.
+.
+P. Qual é o Rei dos Queijos?
+.
+.
+.
+.
+.
+.
+R: O Reiqueijão
+
+
 ```

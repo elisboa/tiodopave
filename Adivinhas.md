@@ -121,7 +121,13 @@ R. Porque ele tem uma pinha!
 .
 .
 .
-
+P. Porque o cavalo foi no orelhão?
+.
+.
+.
+.
+.
+R. Para passar um trote.
 
 
 

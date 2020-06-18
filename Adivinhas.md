@@ -102,4 +102,27 @@ P. O que o tomate foi fazer no banco?
 .
 .
 R: Tirar extrato.
+.
+.
+.
+.
+.
+P. Porque o pinheiro nao se perde na floresta?
+.
+.
+.
+.
+.
+.
+R. Porque ele tem uma pinha!
+.
+.
+.
+.
+.
+.
+
+
+
+
 ```

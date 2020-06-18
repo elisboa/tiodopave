@@ -88,6 +88,18 @@ P. O que é, o que é? Nasce a socos e morre a facadas?
 .
 .
 R: O Pão.
-
-
+.
+.
+.
+.
+.
+.
+P. O que o tomate foi fazer no banco?
+.
+.
+.
+.
+.
+.
+R: Tirar extrato.
 ```

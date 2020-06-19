@@ -121,6 +121,34 @@ R. Porque ele tem uma pinha!
 .
 .
 .
+P. O que o pato falou para a pata?
+.
+.
+.
+.
+.
+.
+R. Vem quá!
+.
+.
+.
+.
+.
+.
+P. O que aconteceria se todos os mosquitos morressem?
+.
+.
+.
+.
+.
+.
+R. Seria o fim da picada!
+.
+.
+.
+.
+.
+.
 
 
 

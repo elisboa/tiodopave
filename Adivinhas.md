@@ -121,14 +121,14 @@ R. Porque ele tem uma pinha!
 .
 .
 .
-P. O que o pato falou para a pata?
+P. Porque o cavalo foi no orelhão?
 .
 .
 .
 .
 .
 .
-R. Vem quá!
+R. Para passar um trote.
 .
 .
 .
@@ -149,7 +149,6 @@ R. Seria o fim da picada!
 .
 .
 .
-
 
 
 

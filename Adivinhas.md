@@ -127,7 +127,28 @@ P. Porque o cavalo foi no orelhão?
 .
 .
 .
+.
 R. Para passar um trote.
+.
+.
+.
+.
+.
+.
+P. O que aconteceria se todos os mosquitos morressem?
+.
+.
+.
+.
+.
+.
+R. Seria o fim da picada!
+.
+.
+.
+.
+.
+.
 
 
 

@@ -149,7 +149,20 @@ R. Seria o fim da picada!
 .
 .
 .
-
+P. Porquê tem cama elática no Polo Norte ?
+.
+.
+.
+.
+.
+.
+R. Para o Urso Polar!
+.
+.
+.
+.
+.
+.
 
 
 ```

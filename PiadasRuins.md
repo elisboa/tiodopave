@@ -21,3 +21,6 @@ R: Vi-Thor.
 
 P: Por que a velhinha não usa relógio?
 R: Porque ela é sem hora (senhora)
+
+P: Qual a semelhança entre um policial e um maconheiro?
+R: Ambos gostam de dar um tapa

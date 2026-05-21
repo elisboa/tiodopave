@@ -6,4 +6,5 @@ Beautiful thing of the father | Coisa linda do pai
 I will break your branch | Vou quebrar o teu galho
 Don't come that it doesn't have | Não vem que não tem
 re big cheese | requeijão
+Put the finger in the dameged | Colocar o dedo na ferida
 ```
